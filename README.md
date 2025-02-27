@@ -18,7 +18,7 @@ I'm a dynamic full-stack web developer and solo entrepreneur at [Devotomy](https
 ## 🛠 Technologies & Tools
 
 - **Frontend:** Angular, React, Next.js, Tailwind CSS, Material-UI  
-- **Backend:** Node.js, Java Spring Boot, Express, NestJS  
+- **Backend:** Node.js, Java Spring Boot, Express  
 - **DevOps:** Docker, Jenkins, GitHub Actions, n8n  
 - **Other:** TypeScript, REST APIs, CI/CD, Agile methodologies
 
