@@ -1,6 +1,6 @@
 # Hi, I'm Marius 👋
 
-I'm a dynamic full-stack web developer and solo entrepreneur at [Devotomy](https://devotomy.com). With a Bachelor's in Computer Science and over four years of experience, I specialize in creating scalable, efficient, and innovative digital solutions using modern frameworks and tools.
+I'm a dynamic full-stack web developer and solo entrepreneur at [Devotomy](https://devotomy.com), co-founder at [cresco.ro](https://cresco.ro). With a Bachelor's in Computer Science and over four years of experience, I specialize in creating scalable, efficient, and innovative digital solutions using modern frameworks and tools.
 
 ## 🚀 Top Projects
 
