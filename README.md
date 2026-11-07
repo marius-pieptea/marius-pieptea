@@ -1,27 +1,15 @@
-# Hi, I'm Marius 👋
-
-I'm a dynamic full-stack web developer and solo entrepreneur at [Devotomy](https://devotomy.com), co-founder at [cresco.ro](https://cresco.ro). With a Bachelor's in Computer Science and over four years of experience, I specialize in creating scalable, efficient, and innovative digital solutions using modern frameworks and tools.
-
-## 🚀 Top Projects
-
-- **[PageOptic](https://pageoptic.com)**  
-  An AI-driven SEO audit tool built with React, Node.js, and PostgreSQL that delivers actionable insights for businesses.
-
-- **[Apex Boilerplate](https://apex-demo.devotomy.com)**  
-  A full-stack SaaS template featuring Next.js, Stripe, Prisma, and Tailwind CSS. Designed to reduce project setup time and streamline development.
-
-## 🔗 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/marius-pieptea)
-- [Devotomy](https://devotomy.com)
-
-## 🛠 Technologies & Tools
-
-- **Frontend:** Angular, React, Next.js, Tailwind CSS, Material-UI  
-- **Backend:** Node.js, Java Spring Boot, Express  
-- **DevOps:** Docker, Jenkins, GitHub Actions, n8n  
-- **Other:** TypeScript, REST APIs, CI/CD, Agile methodologies
-
----
-
-Feel free to explore my repositories and reach out if you’re interested in collaborating or learning more about my work!
+Marius Pieptea
+Full-stack developer based in Romania. I build SaaS products, client sites and internal tools at Devotomy, and I co-founded cresco.ro.
+Projects
+treeboss: An agent harness and software factory. One daemon and UI for the coding CLIs you already use, from idea to shipped app. (TypeScript)
+Pictorialive: An international SaaS product. (TypeScript, Next.js)
+Situl: A website-as-a-service platform with AI assistance that gets micro-businesses and sole traders in Romania a professional site, with domain, hosting and content, in about 15 minutes. (TypeScript, Next.js, PostgreSQL)
+Stack
+Frontend: TypeScript, React, Next.js, Angular, Tailwind CSS
+Backend: Node.js, Express, Java Spring Boot, PHP, REST APIs
+Data and infrastructure: PostgreSQL, Prisma, Docker, GitHub Actions, Jenkins, n8n
+Practices: CI/CD, Agile delivery, AI-assisted development
+Find me
+Devotomy
+cresco.ro
+LinkedIn
